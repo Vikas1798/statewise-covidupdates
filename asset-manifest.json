@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/statewise-covidupdates/static/css/main.2c08e279.chunk.css",
+    "main.js": "/statewise-covidupdates/static/js/main.88396c1d.chunk.js",
+    "main.js.map": "/statewise-covidupdates/static/js/main.88396c1d.chunk.js.map",
+    "runtime-main.js": "/statewise-covidupdates/static/js/runtime-main.9311b4f4.js",
+    "runtime-main.js.map": "/statewise-covidupdates/static/js/runtime-main.9311b4f4.js.map",
+    "static/js/2.66fb7eec.chunk.js": "/statewise-covidupdates/static/js/2.66fb7eec.chunk.js",
+    "static/js/2.66fb7eec.chunk.js.map": "/statewise-covidupdates/static/js/2.66fb7eec.chunk.js.map",
+    "index.html": "/statewise-covidupdates/index.html",
+    "static/css/main.2c08e279.chunk.css.map": "/statewise-covidupdates/static/css/main.2c08e279.chunk.css.map",
+    "static/js/2.66fb7eec.chunk.js.LICENSE.txt": "/statewise-covidupdates/static/js/2.66fb7eec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9311b4f4.js",
+    "static/js/2.66fb7eec.chunk.js",
+    "static/css/main.2c08e279.chunk.css",
+    "static/js/main.88396c1d.chunk.js"
+  ]
+}
